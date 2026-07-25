@@ -14,6 +14,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0075-sort-colors](https://github.com/aditya-singh138/DSA_Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditya-singh138/DSA_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/aditya-singh138/DSA_Problems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aditya-singh138/DSA_Problems/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditya-singh138/DSA_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -29,6 +30,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditya-singh138/DSA_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/aditya-singh138/DSA_Problems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aditya-singh138/DSA_Problems/tree/master/0704-binary-search) |
 ## Prefix Sum
