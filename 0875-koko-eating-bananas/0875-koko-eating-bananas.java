@@ -1,5 +1,5 @@
 class Solution {
-    public static int banana(int piles[],int mid){
+    public int banana(int piles[],int mid){
         int sum=0;
         for(int i=0;i<piles.length;i++){
             sum+= Math.ceil((double)piles[i]/mid);
@@ -7,13 +7,13 @@ class Solution {
         return sum;
     }
     public int minEatingSpeed(int[] piles, int h) {
-        int min=Integer.MAX_VALUE;
-        int max=0;
+        int max=Integer.MIN_VALUE;
         for(int i=0;i<piles.length;i++){
-            max=Math.max(max,piles[i]);
+            max= Math.max(max,piles[i]);
         }
         int lo=1;
-        int hi=max;
+        int hi= max;
+        int min= Integer.MAX_VALUE;
         while(lo<=hi){
             int mid= lo+(hi-lo)/2;
             int res= banana(piles,mid);
