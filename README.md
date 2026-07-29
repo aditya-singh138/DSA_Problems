@@ -19,6 +19,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0704-binary-search](https://github.com/aditya-singh138/DSA_Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/aditya-singh138/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditya-singh138/DSA_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1539-kth-missing-positive-number](https://github.com/aditya-singh138/DSA_Problems/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aditya-singh138/DSA_Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/aditya-singh138/DSA_Problems/tree/master/0875-koko-eating-bananas) |
+| [1539-kth-missing-positive-number](https://github.com/aditya-singh138/DSA_Problems/tree/master/1539-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
 | ------- |
