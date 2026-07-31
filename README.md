@@ -16,6 +16,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditya-singh138/DSA_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aditya-singh138/DSA_Problems/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aditya-singh138/DSA_Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/aditya-singh138/DSA_Problems/tree/master/0875-koko-eating-bananas) |
@@ -49,6 +50,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | ------- |
 | [0056-merge-intervals](https://github.com/aditya-singh138/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aditya-singh138/DSA_Problems/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +63,16 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aditya-singh138/DSA_Problems/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
