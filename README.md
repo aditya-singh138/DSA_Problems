@@ -29,6 +29,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | ------- |
 | [0001-two-sum](https://github.com/aditya-singh138/DSA_Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya-singh138/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/aditya-singh138/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/aditya-singh138/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditya-singh138/DSA_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
@@ -86,9 +87,11 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya-singh138/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-singh138/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/aditya-singh138/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/aditya-singh138/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya-singh138/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/aditya-singh138/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
