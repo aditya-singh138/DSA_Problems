@@ -24,6 +24,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0904-fruit-into-baskets](https://github.com/aditya-singh138/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditya-singh138/DSA_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1539-kth-missing-positive-number](https://github.com/aditya-singh138/DSA_Problems/tree/master/1539-kth-missing-positive-number) |
+| [2109-adding-spaces-to-a-string](https://github.com/aditya-singh138/DSA_Problems/tree/master/2109-adding-spaces-to-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aditya-singh138/DSA_Problems/tree/master/0075-sort-colors) |
+| [2109-adding-spaces-to-a-string](https://github.com/aditya-singh138/DSA_Problems/tree/master/2109-adding-spaces-to-a-string) |
 ## Math
 |  |
 | ------- |
@@ -94,4 +96,9 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya-singh138/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-singh138/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [2109-adding-spaces-to-a-string](https://github.com/aditya-singh138/DSA_Problems/tree/master/2109-adding-spaces-to-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/aditya-singh138/DSA_Problems/tree/master/2109-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
