@@ -10,6 +10,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0001-two-sum](https://github.com/aditya-singh138/DSA_Problems/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/aditya-singh138/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/aditya-singh138/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/aditya-singh138/DSA_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aditya-singh138/DSA_Problems/tree/master/0075-sort-colors) |
@@ -78,6 +79,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aditya-singh138/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aditya-singh138/DSA_Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
@@ -113,4 +115,8 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-singh138/DSA_Problems/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aditya-singh138/DSA_Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
