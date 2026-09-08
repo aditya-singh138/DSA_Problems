@@ -1,19 +1,18 @@
 class Solution {
-    public int totalFruit(int[] fruits) {
-        int k=2;
-        HashMap<Integer,Integer>mp= new HashMap<>();
+    public int totalFruit(int[] nums) {
         int lo=0;
-        int max=Integer.MIN_VALUE;
-        for(int hi=0;hi<fruits.length;hi++){
-            mp.put(fruits[hi],mp.getOrDefault(fruits[hi],0)+1);
-
-            while(mp.size()>k){
-                mp.put(fruits[lo],mp.get(fruits[lo])-1);
-                if(mp.get(fruits[lo])==0) mp.remove(fruits[lo]);
-                lo++;
-            }
+        int k=2;
+        int max= Integer.MIN_VALUE;
+        HashMap<Integer,Integer>mp= new HashMap<>();
+        for(int hi=0;hi<nums.length;hi++){
+            mp.put(nums[hi],mp.getOrDefault(nums[hi],0)+1);
             if(mp.size()<=k){
                 max= Math.max(max,hi-lo+1);
+            }
+            while(mp.size()>k){
+                mp.put(nums[lo],mp.get(nums[lo])-1);
+                if(mp.get(nums[lo])==0) mp.remove(nums[lo]);
+                lo++;
             }
         }
         return max;
