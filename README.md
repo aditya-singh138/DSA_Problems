@@ -128,6 +128,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0595-big-countries](https://github.com/aditya-singh138/DSA_Problems/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/aditya-singh138/DSA_Problems/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/aditya-singh138/DSA_Problems/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/aditya-singh138/DSA_Problems/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/aditya-singh138/DSA_Problems/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/aditya-singh138/DSA_Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aditya-singh138/DSA_Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
