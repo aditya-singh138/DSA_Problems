@@ -123,6 +123,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/aditya-singh138/DSA_Problems/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/aditya-singh138/DSA_Problems/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/aditya-singh138/DSA_Problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/aditya-singh138/DSA_Problems/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/aditya-singh138/DSA_Problems/tree/master/1148-article-views-i) |
