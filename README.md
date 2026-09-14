@@ -123,5 +123,6 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/aditya-singh138/DSA_Problems/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/aditya-singh138/DSA_Problems/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aditya-singh138/DSA_Problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
