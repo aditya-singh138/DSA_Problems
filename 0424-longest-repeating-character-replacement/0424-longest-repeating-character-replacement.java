@@ -1,19 +1,21 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-        int lo=0;
-        int max=0;
         int freq[]= new int[128];
-        int maxf=0;
+        int lo=0;
+        int maxf= Integer.MIN_VALUE;
+        int max= Integer.MIN_VALUE;
         for(int hi=0;hi<s.length();hi++){
-            freq[s.charAt(hi)]++;
-            maxf= Math.max(maxf,freq[s.charAt(hi)]);
+            char ch= s.charAt(hi);
+            freq[ch]++;
+            maxf= Math.max(maxf,freq[ch]);
+
             int len= hi-lo+1;
             while(len-maxf >k){
                 freq[s.charAt(lo)]--;
                 lo++;
-                len=hi-lo+1;
+                len= hi-lo+1;
             }
-            max= Math.max(max,len);
+            max= Math.max(max,hi-lo+1);
         }
         return max;
     }
