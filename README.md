@@ -25,6 +25,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0875-koko-eating-bananas](https://github.com/aditya-singh138/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/aditya-singh138/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditya-singh138/DSA_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/aditya-singh138/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/aditya-singh138/DSA_Problems/tree/master/1539-kth-missing-positive-number) |
 | [2109-adding-spaces-to-a-string](https://github.com/aditya-singh138/DSA_Problems/tree/master/2109-adding-spaces-to-a-string) |
 ## Hash Table
@@ -50,12 +51,14 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aditya-singh138/DSA_Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/aditya-singh138/DSA_Problems/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/aditya-singh138/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/aditya-singh138/DSA_Problems/tree/master/1539-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-singh138/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditya-singh138/DSA_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/aditya-singh138/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +100,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-singh138/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-singh138/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/aditya-singh138/DSA_Problems/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/aditya-singh138/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
