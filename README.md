@@ -83,6 +83,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aditya-singh138/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/aditya-singh138/DSA_Problems/tree/master/0069-sqrtx) |
 ## Matrix
 |  |
@@ -152,6 +153,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aditya-singh138/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aditya-singh138/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/aditya-singh138/DSA_Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/aditya-singh138/DSA_Problems/tree/master/0141-linked-list-cycle) |
@@ -169,6 +171,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aditya-singh138/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aditya-singh138/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/aditya-singh138/DSA_Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aditya-singh138/DSA_Problems/tree/master/0234-palindrome-linked-list) |
