@@ -26,16 +26,8 @@ class Solution {
                 temp2=temp2.next;
             }
         }
-        while(temp1!=null){
-            r.next= temp1;
-            r=r.next;
-            temp1=temp1.next;
-        }
-        while(temp2!=null){
-            r.next= temp2;
-            r=r.next;
-            temp2=temp2.next;
-        }
+        if(temp1!=null) r.next= temp1;
+        if(temp2!=null) r.next= temp2;
         return res.next;
     }
 }
