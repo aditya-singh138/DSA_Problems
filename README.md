@@ -72,6 +72,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/aditya-singh138/DSA_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/aditya-singh138/DSA_Problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/aditya-singh138/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aditya-singh138/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -154,6 +155,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya-singh138/DSA_Problems/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/aditya-singh138/DSA_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/aditya-singh138/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/aditya-singh138/DSA_Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/aditya-singh138/DSA_Problems/tree/master/0141-linked-list-cycle) |
