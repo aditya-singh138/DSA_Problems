@@ -9,6 +9,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | ------- |
 | [0001-two-sum](https://github.com/aditya-singh138/DSA_Problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/aditya-singh138/DSA_Problems/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/aditya-singh138/DSA_Problems/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/aditya-singh138/DSA_Problems/tree/master/0053-maximum-subarray) |
@@ -69,6 +70,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aditya-singh138/DSA_Problems/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/aditya-singh138/DSA_Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/aditya-singh138/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aditya-singh138/DSA_Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aditya-singh138/DSA_Problems/tree/master/0169-majority-element) |
@@ -77,6 +79,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aditya-singh138/DSA_Problems/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/aditya-singh138/DSA_Problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aditya-singh138/DSA_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/aditya-singh138/DSA_Problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/aditya-singh138/DSA_Problems/tree/master/0141-linked-list-cycle) |
