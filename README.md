@@ -149,6 +149,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/aditya-singh138/DSA_Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/aditya-singh138/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aditya-singh138/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/aditya-singh138/DSA_Problems/tree/master/0206-reverse-linked-list) |
