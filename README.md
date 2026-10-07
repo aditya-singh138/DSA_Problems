@@ -70,6 +70,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aditya-singh138/DSA_Problems/tree/master/0075-sort-colors) |
+| [0876-middle-of-the-linked-list](https://github.com/aditya-singh138/DSA_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/aditya-singh138/DSA_Problems/tree/master/2109-adding-spaces-to-a-string) |
 ## Math
 |  |
@@ -140,4 +141,8 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [1661-average-time-of-process-per-machine](https://github.com/aditya-singh138/DSA_Problems/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/aditya-singh138/DSA_Problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aditya-singh138/DSA_Problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/aditya-singh138/DSA_Problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
