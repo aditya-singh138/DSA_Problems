@@ -27,6 +27,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-singh138/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aditya-singh138/DSA_Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aditya-singh138/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aditya-singh138/DSA_Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/aditya-singh138/DSA_Problems/tree/master/0875-koko-eating-bananas) |
@@ -203,6 +204,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0042-trapping-rain-water](https://github.com/aditya-singh138/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/aditya-singh138/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aditya-singh138/DSA_Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aditya-singh138/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -212,6 +214,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditya-singh138/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/aditya-singh138/DSA_Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aditya-singh138/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
