@@ -30,6 +30,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0503-next-greater-element-ii](https://github.com/aditya-singh138/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aditya-singh138/DSA_Problems/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/aditya-singh138/DSA_Problems/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/aditya-singh138/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/aditya-singh138/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditya-singh138/DSA_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -205,6 +206,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0234-palindrome-linked-list](https://github.com/aditya-singh138/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aditya-singh138/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aditya-singh138/DSA_Problems/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/aditya-singh138/DSA_Problems/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
@@ -215,6 +217,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0042-trapping-rain-water](https://github.com/aditya-singh138/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/aditya-singh138/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aditya-singh138/DSA_Problems/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/aditya-singh138/DSA_Problems/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
