@@ -26,6 +26,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0169-majority-element](https://github.com/aditya-singh138/DSA_Problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-singh138/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/aditya-singh138/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-singh138/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aditya-singh138/DSA_Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/aditya-singh138/DSA_Problems/tree/master/0875-koko-eating-bananas) |
@@ -44,6 +45,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-singh138/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aditya-singh138/DSA_Problems/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-singh138/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/aditya-singh138/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/aditya-singh138/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditya-singh138/DSA_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
@@ -200,6 +202,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 | [0020-valid-parentheses](https://github.com/aditya-singh138/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aditya-singh138/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/aditya-singh138/DSA_Problems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/aditya-singh138/DSA_Problems/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -208,6 +211,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditya-singh138/DSA_Problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/aditya-singh138/DSA_Problems/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
