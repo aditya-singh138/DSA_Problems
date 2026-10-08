@@ -130,6 +130,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya-singh138/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/aditya-singh138/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-singh138/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [2109-adding-spaces-to-a-string](https://github.com/aditya-singh138/DSA_Problems/tree/master/2109-adding-spaces-to-a-string) |
 ## Simulation
@@ -196,6 +197,7 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aditya-singh138/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aditya-singh138/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/aditya-singh138/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 ## Greedy
@@ -206,4 +208,8 @@ This repository stores my accepted LeetCode solutions automatically using LeetHu
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditya-singh138/DSA_Problems/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aditya-singh138/DSA_Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
